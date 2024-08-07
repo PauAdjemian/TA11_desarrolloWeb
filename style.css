@@ -1,0 +1,16 @@
+p {
+    background-color: pink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+#segundo {
+    color: blue;
+    font-size: 36px;
+}
+#tercero{
+    font-size: 24px;
+}
+#cuarto{
+    background-color: aquamarine;
+    font-weight: bold;
+    font-size: 24px;
+}
